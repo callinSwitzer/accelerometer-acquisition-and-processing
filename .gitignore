@@ -1,3 +1,32 @@
+# R stuff
+# History files
+.Rhistory
+.Rapp.history
+
+
+# sound files
+*.wav
+*.mov
+*.mp4
+
+# images, except pdf
+*.jpg
+*.png
+*.pgm
+*.ppm
+
+
+
+# Session Data files
+.RData
+
+# DS_Store
+.DS_Store
+
+
+
+# Python Stuff
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
